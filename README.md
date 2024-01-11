@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @lalalarr
-- 👀 I’m interested in everything
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in JAVA, Spring
+- 🌱 I’m currently learning AWS, Docker, Cloud Services
 
 <!---
 lalalarr/lalalarr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
