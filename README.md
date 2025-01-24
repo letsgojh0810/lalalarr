@@ -1,11 +1,7 @@
 <br>
 <br>
 <p align='center'>
-<<<<<<< HEAD
-    <img src="https://capsule-render.vercel.app/api?type=cylinder&color=51c481&text=Jeonghyun Han&fontAlignY=45&fontSize=40&height=150&desc=  &descAlignY=70"/>
-=======
     <img src="https://capsule-render.vercel.app/api?type=cylinder&color=51c481&text=Learning,%20Growing,%20Creating&fontAlignY=45&fontColor=eee4e1&fontSize=40&height=150"/>
->>>>>>> 27d4c498de9d537859d82a3621ff90cf0b3fe2a8
 </p>
 
 ```
@@ -46,14 +42,8 @@
 |----|---------------|------|-----------|----------|------|------|
 | 1  | **맛집 탐색 앱(kotlin)** | 카카오맵 API 기반 주변 맛집 탐색 어플| Android Studio, Kotlin, Kakao Map API, Login API | &nbsp;👩‍👩‍👧‍👦<br>(4명)| [GitHub 링크](https://github.com/marha-hwang/eater) | 2022-04 |
 | 2  | **학생 정보 관리 시스템** | 학생들을 위한 정보 관리 시스템 학생들의 기본 정보, 목표, 스터디 희망 분야 등을 관리하고, 등하교 메이트 매칭 기능을 제공 | Java, Maven, mySql, BCrypt, JDBC, lombok| &nbsp;👩‍👩‍👧‍👦<br>(4명) | [GitHub 링크](https://github.com/letsgojh0810/WooriInfo) | 2025.01.10 |
-<<<<<<< HEAD
 | 3  | **Automating Weather Data** | ELK를 통한 날씨 데이터 자동화 및 시각화 | ElasticSearch, Logstash, Kibana, mySql| &nbsp;👩‍👩‍👧‍👦<br>(4명) | [GitHub 링크](https://github.com/letsgojh0810/weather) | 2025-01-21 |
 | 4  | **Woori Card Data Analyzing** | Install ELK in ubuntu and practice ELK using Woori card data | ElasticSearch, Logstash, Kibana, mySql| &nbsp;👩‍👩‍👧‍👦<br>(4명) | [GitHub 링크](https://github.com/letsgojh0810/wooridata) | 2025-01-24 |
-=======
-| 3  | **Automating Weather Data** | ELK를 통한 날씨 데이터 자동화 및 시각화 | ElasticSearch, Logstash, Kibana, mySql| &nbsp;👩‍👩‍👧‍👦<br>(4명) | [GitHub 링크](https://github.com/letsgojh0810/weather) | 2025-1-21 |
-
->>>>>>> 27d4c498de9d537859d82a3621ff90cf0b3fe2a8
-
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=letsgojh0810)](https://github.com/letsgojh0810/github-readme-stats) -->
 
