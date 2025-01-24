@@ -47,10 +47,10 @@
 | No | 프로젝트 이름 | 설명 | 주요 기술 | 참여<br> 인원 | 링크 | 날짜 |
 |----|---------------|------|-----------|----------|------|------|
 | 1  | **맛집 탐색 앱(kotlin)** | 카카오맵 API 기반 주변 맛집 탐색 어플| Android Studio, Kotlin, Kakao Map API, Login API | &nbsp;👩‍👩‍👧‍👦<br>(4명)| [GitHub 링크](https://github.com/marha-hwang/eater) | 2022.04.01 |
-| 2  | **학생 정보 관리 시스템** | 학생들을 위한 정보 관리 시스템 학생들의 기본 정보, 목표, 스터디 희망 분야 등을 관리하고, 등하교 메이트 매칭 기능을 제공 | Java, Maven, mySql, BCrypt, JDBC, lombok| &nbsp;👩‍👩‍👧‍👦<br>(4명) | [GitHub 링크](https://github.com/letsgojh0810/WooriInfo) | 2025.01.10 |
-| 3  | **정규식 학습** | 정규식(Regular Expression, RegEx) 학습을 위한 주식 거래 시스템 데이터베이스 설계 | ElasticSearch, Logstash, Kibana, mySql| &nbsp;👩‍👩‍👧‍👦<br>(4명) | [GitHub 링크](https://github.com/letsgojh0810/RegularExpression_E-Quiet) | 2025.01.17 |
-| 4  | **Automating Weather Data** | ELK를 통한 날씨 데이터 자동화 및 시각화 | ElasticSearch, Logstash, Kibana, mySql| &nbsp;👩‍👩‍👧‍👦<br>(4명) | [GitHub 링크](https://github.com/letsgojh0810/weather) | 2025.01.21 |
-| 5  | **Woori Card Data 시각화** | Ubuntu에서 ELK 스택 설치 및 Woori 카드 데이터를 이용한 ELK 실습 | ElasticSearch, Logstash, Kibana, mySql| &nbsp;👩‍👩‍👧‍👦<br>(4명) | [GitHub 링크](https://github.com/letsgojh0810/wooridata) | 2025.01.24 |
+| 2  | **학생 정보 관리 시스템** | 학생들을 위한 정보 관리 시스템 학생들의 기본 정보, 목표, 스터디 희망 분야 등을 관리하고, 등하교 메이트 매칭 기능을 제공 | STS4, Java, Maven, DBeaver, mySql, BCrypt, JDBC, lombok| &nbsp;👩‍👩‍👧‍👦<br>(4명) | [GitHub 링크](https://github.com/letsgojh0810/WooriInfo) | 2025.01.10 |
+| 3  | **정규식 고도화** | 정규식(Regular Expression, RegEx) 고도화를 위한 주식 거래 시스템 데이터베이스 설계 | ElasticSearch, Logstash, Kibana, mySql| &nbsp;👩‍👩‍👧‍👦<br>(4명) | [GitHub 링크](https://github.com/letsgojh0810/RegularExpression_E-Quiet) | 2025.01.17 |
+| 4  | **Automating Weather Data** | ELK 기반 Pipeline 시스템 구축, 실시간 날씨 데이터 수집 및 시각화 서비스 | ElasticSearch, Logstash, Kibana, mySql, DBeaver | &nbsp;👩‍👩‍👧‍👦<br>(4명) | [GitHub 링크](https://github.com/letsgojh0810/weather) | 2025.01.21 |
+| 5  | **실 금융 데이터 시각화** | Ubuntu에서의 ELK Stack 설치 및 실 금융 데이터를 기반한 Kibana 시각화  | ElasticSearch, Logstash, Kibana, Ubuntu, mobaxterm | &nbsp;👩‍👩‍👧‍👦<br>(4명) | [GitHub 링크](https://github.com/letsgojh0810/wooridata) | 2025.01.24 |
 
 
 
