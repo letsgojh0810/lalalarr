@@ -1,7 +1,7 @@
 <br>
 <br>
 <p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=cylinder&color=51c481&text=Jeonghyun%20Han&fontAlignY=45&fontSize=40&height=150"/>
+    <img src="https://capsule-render.vercel.app/api?type=cylinder&color=51c481&text=Learning,%20Growing,%20Creating&fontAlignY=45&fontColor=eee4e1&fontSize=40&height=150"/>
 </p>
 
 ```
