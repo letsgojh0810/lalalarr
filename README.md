@@ -1,11 +1,7 @@
 <br>
 <br>
 <p align='center'>
-<<<<<<< HEAD
-    <img src="https://capsule-render.vercel.app/api?type=cylinder&color=51c481&text=Jeonghyun Han&fontAlignY=45&fontSize=40&height=150&desc=  &descAlignY=70"/>
-=======
     <img src="https://capsule-render.vercel.app/api?type=cylinder&color=51c481&text=Learning,%20Growing,%20Creating&fontAlignY=45&fontColor=eee4e1&fontSize=40&height=150"/>
->>>>>>> 27d4c498de9d537859d82a3621ff90cf0b3fe2a8
 </p>
 
 ```
