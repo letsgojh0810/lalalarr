@@ -1,8 +1,9 @@
 <br>
 <br>
 <p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=cylinder&color=51c481&text=Learning,%20Growing,%20Creating&fontAlignY=45&fontColor=eee4e1&fontSize=40&height=150"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=9fc5e8&text=Learning,%20Growing,%20Creating&fontAlignY=50&fontColor=EEE4E1&fontSize=45&height=180&width=500&animation=fadeIn&borderRadius=30"/>
 </p>
+
 
 ```
 - 👋 Hi, I’m Jeonghyun Han
