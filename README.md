@@ -4,12 +4,23 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=9fc5e8&text=Learning,%20Growing,%20Creating&fontAlignY=50&fontColor=EEE4E1&fontSize=45&height=180&width=500&animation=fadeIn&borderRadius=30"/>
 </p>
 
-
-```
+<table>
+  <tr>
+    <td style="vertical-align: top; width: 50%; height: 100px; padding-right: 10px;">
+      <pre style="height: 100%; overflow: auto;">
 - 👋 Hi, I’m Jeonghyun Han
 - 👀 I’m interested in JAVA, Spring, ELK
 - 🌱 I’m currently learning ElasticSearch, Docker, Cloud Services
-```
+      </pre>
+    </td>
+    <td style="vertical-align: top; width: 50%; height: 200px;">
+      <img src="https://github-readme-stats.vercel.app/api?username=letsgojh0810&show_icons=true&theme=slateorange&size_weight=0&custom_title=Let's%20Go!&text_bold=true&card_width=500" alt="GitHub Stats" style="width: 100%; height: 100%;">
+    </td>
+  </tr>
+</table>
+
+
+
 <br>
 
 ## 🔨 Used Skills & Tools
