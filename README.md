@@ -55,7 +55,11 @@
 | 5  | **실 금융 데이터 시각화** | Ubuntu에서의 ELK Stack 설치 및 실 금융 데이터를 기반한 Kibana 시각화  | ElasticSearch, Logstash, Kibana, Ubuntu, mobaxterm | &nbsp;👩‍👩‍👧‍👦<br>(4명) | [GitHub 링크](https://github.com/letsgojh0810/wooridata) | 2025.01.24 |
 
 
-
+<br>
+<br>
+<p align='center'>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=9fc5e8&text=Thank%20You&fontAlignY=50&fontColor=EEE4E1&fontSize=45&height=180&width=500&animation=fadeIn&borderRadius=30&section=footer"/>
+</p>
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=letsgojh0810)](https://github.com/letsgojh0810/github-readme-stats) -->
 
 <!---
